@@ -15,7 +15,6 @@ voice web automation is a chrome based voice controlled browser using Selenium. 
 * [Features](#features)
 * [Dependencies](#dependencies)
 * [Setup](#setup)
-* [License](#license)
 
 ## Description
 
