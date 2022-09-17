@@ -1,7 +1,6 @@
 # Voce Browser
 
-![GPL License](https://img.shields.io/badge/license-GPLv3-green) ![Platforms](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1)
-![Python v3.7](https://img.shields.io/github/pipenv/locked/python-version/metabolize/rq-dashboard-on-heroku) ![Build passing](https://img.shields.io/github/workflow/status/actions/toolkit/Main%20workflow) ![Speech Recognition](https://img.shields.io/badge/speech-recognition-important) ![gTTS](https://img.shields.io/badge/gTTS-2.1.1-blueviolet) ![PyQt5](https://img.shields.io/badge/PyQt5-5.12.3-red)
+![Python v3.8](https://img.shields.io/github/pipenv/locked/python-version/metabolize/rq-dashboard-on-heroku) ![Build passing](https://img.shields.io/github/workflow/status/actions/toolkit/Main%20workflow) ![Speech Recognition](https://img.shields.io/badge/speech-recognition-important)
 
 
 voice web automation is a chrome based voice controlled browser using Selenium. It has all the basic browser features like Chrome or Firefox and in addition it can be controlled with voice commands.
@@ -55,11 +54,3 @@ pip3 install selenium
 pinp3 install speech_recognition
 pip3 install pyttsx3
 ```
-
-## Notes:
-
-## License 
-
-![GPL License](https://img.shields.io/badge/license-GPLv3-green)
-
-This is an open-source project under the GPL-3.0 License
